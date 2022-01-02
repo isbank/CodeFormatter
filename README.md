@@ -4,7 +4,7 @@
   </a>   
   
   <a href="https://github.com/sebetci/sebetci.github.io/releases">
-    <img src="https://img.shields.io/github/release/sebetci/CodeFormatter.svg" alt="GitHub release">
+    <img src="https://img.shields.io/github/release/sebetci/CodeFormatter" alt="GitHub release">
   </a>
   
   <a href="https://github.com/sebetci/sebetci.github.io/blob/master/LICENSE">

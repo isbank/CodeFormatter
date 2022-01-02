@@ -25,7 +25,7 @@ This repository contains a code formatter organized for use in C/C++ projects on
 After cloning this repository you need to include the **CodeFormatter.xml** file in the project in Eclipse CDT IDE. After selecting the project on the **Project Explorer** window, open the **Properties** window by using the <kbd>ALT</kbd> + <kbd>ENTER</kbd> shortcut. From the **Properties** window, go to **C/C++ General** > **Formatter** tab and click the **Import...** button to include the **CustomFormatter.xml** file in the project. Use the <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>F</kbd> shortcut on the Eclipse CDT IDE to apply the formatter to the source code.
 
 <div class="header">
-    <h3 style="color:back;" align="center">Source Code View</h3>
+    <h3 style="color:back;" align="center">Formatted Source Code View</h3>
 </div>
 
 When the code formatter is applied to the source code, it looks like this:

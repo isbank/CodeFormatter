@@ -28,30 +28,4 @@ After cloning this repository you need to include the **CodeFormatter.xml** file
     <h3 style="color:back;" align="center">Formatted Source Code View</h3>
 </div>
 
-When the code formatter is applied to the source code, it looks like this:
-
-```cpp
-/*
- * A sample source file for the code formatter preview
- */
-#include <math.h>
-
-class Point
-{
-    public:
-        Point (double x, double y) : x (x), y (y)
-        {
-        }
-        double distance (const Point &other) const;
-
-        double x;
-        double y;
-};
-
-double Point::distance (const Point &other) const
-{
-    double dx = x - other.x;
-    double dy = y - other.y;
-    return sqrt (dx * dx + dy * dy);
-}
-```
+When the code formatter is applied to the source code, it looks like the <a href="https://github.com/sebetci/CodeFormatter/blob/main/source/main.cpp">main.cpp</a> and <a href="https://github.com/sebetci/CodeFormatter/blob/main/source/main.hpp">main.hpp</a> files in the <a href="https://github.com/sebetci/CodeFormatter/tree/main/source">./source/</a> directory.
